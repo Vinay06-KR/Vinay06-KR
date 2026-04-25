@@ -13,4 +13,5 @@
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="45"/>
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black" height="45"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
 </p>
